@@ -1,0 +1,143 @@
+Oakland, United States
+Seoul, South Korea
+Toronto, Canada
+Luxembourg, Luxembourg
+Seattle, United States
+Dhaka, Bangladesh
+Guatemala City, Guatemala
+Tokyo, Japan
+Ottawa, Canada
+Vilnius, Lithuania
+Rome, Italy
+Hong Kong, SAR
+New York City, United States
+New Delhi, India
+Washington, United States
+Dublin, Ireland
+Lisbon, Portugal
+Vienna, Austria
+Santiago, Chile
+Rio de Janeiro, Brazil
+Berlin, Germany
+London, United Kingdom
+Accra, Ghana
+Osaka, Japan
+Helsinki, Finland
+Detroit, United States
+Shenzhen, People's Republic of China
+Harare, Zimbabwe
+Montreal, Canada
+Jakarta, Indonesia
+Birmingham, United Kingdom
+Geneva, Switzerland
+Ljubljana, Slovenia
+Kiev, Ukraine
+Pittsburgh, United States
+Bratislava, Slovakia
+Mumbai, India
+Abu Dhabi, United Arab Emirates
+Copenhagen, Denmark
+Beijing, People's Republic of China
+Zurich, Switzerland
+Caracas, Venezuela
+Manila, Philippines
+Oslo, Norway
+Dusseldorf, Germany
+Shanghai, People's Republic of China
+White Plains, United States
+Denver, United States
+Quito, Ecuador
+Buenos Aires, Argentina
+Abidjan, Cote d'Ivoire
+Casablanca, Morocco
+Kingston, Jamaica
+St. Petersburg, Russia
+Amman, Jordan
+Milan, Italy
+Houston, United States
+Mexico City, Mexico
+Kuala Lumpur, Malaysia
+Melbourne, Australia
+Sydney, Australia
+Munich, Germany
+Istanbul, Turkey
+Winston-Salem, United States
+Sao Paulo, Brazil
+Nairobi, Kenya
+Paris, France
+Montevideo, Uruguay
+St. Louis, United States
+Honolulu, United States
+Singapore, Singapore
+Sofia, Bulgaria
+Bogot, Colombia
+Moscow, Russia
+Frankfurt, Germany
+Limassol, Cyprus
+Panama City, Panama
+Lyon, France
+Bangalore, India
+Colombo, Sri Lanka
+Karachi, Pakistan
+Athens, Greece
+Miami, United States
+Monterrey, Mexico
+Tianjin, People's Republic of China
+Jeddah, Saudi Arabia
+Vancouver, Canada
+San Jose, Costa Rica
+Kuwait City, Kuwait
+Blantyre, Malawi
+Tel Aviv, Israel
+Warsaw, Poland
+Stockholm, Sweden
+Boston, United States
+Santo Domingo, Dominican Republic
+Johannesburg, South Africa
+Dubai, United Arab Emirates
+Prague, Czech Republic
+Zagreb, Croatia
+Taipei, Taiwan
+Douala, Cameroon
+Riga, Latvia
+Ho Chi Minh City, Vietnam
+Lagos, Nigeria
+Auckland, New Zealand
+Wellington, New Zealand
+Perth, Australia
+Hanoi, Vietnam
+Brisbane, Australia
+Adelaide, Australia
+San Francisco, United States
+Budapest, Hungary
+San Juan, Puerto Rico
+Asuncion, Paraguay
+Brussels, Belgium
+Cairo, Egypt
+Chicago, United States
+Calgary, Canada
+Tallinn, Estonia
+Lusaka, Zambia
+Los Angeles, United States
+Bangkok, Thailand
+Barcelona, Spain
+Dakar, Senegal
+Chennai, India
+Lima, Peru
+Beirut, Lebanon
+Glasgow, United Kingdom
+Portland, United States
+Atlanta, United States
+Manama, Bahrain
+Hamburg, Germany
+Leipzig, Germany
+Morristown, United States
+Cleveland, United States
+Tehran, Iran
+Riyadh, Saudi Arabia
+Bandar Seri Begawan, Brunei
+Bucharest, Romania
+Tunis, Tunisia
+Amsterdam, The Netherlands
+Harvard, United States
+Hayward, United States
